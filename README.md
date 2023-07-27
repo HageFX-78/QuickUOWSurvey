@@ -6,7 +6,7 @@ page refresh everytime you click on the option which is annoying! Hence this too
 ## Features
 - Rate all as Absolutely Disagree to Non-applicable (Shows as 1 to N in the same order).
 - Pick min max numbers between 1 to 6 to randomize between.
-- Could probably bypass.. locked surveys idk...
+- Could bypass answered/locked surveys... I'm not responsible for your actions!
 
 ## Installation
 1. Install a userscript manager like [Tampermonkey](https://www.tampermonkey.net/) (A chrome extensioon)
