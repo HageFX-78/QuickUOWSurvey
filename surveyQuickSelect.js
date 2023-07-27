@@ -9,8 +9,8 @@
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        GM_addStyle
 // @run-at       document-start
-// @downloadURL  -
-// @updateURL    -
+// @downloadURL  https://github.com/HageFX-78/QuickUOWSurvey/blob/main/surveyQuickSelect.js
+// @updateURL    https://github.com/HageFX-78/QuickUOWSurvey/blob/main/surveyQuickSelect.js
 // ==/UserScript==
 
 GM_addStyle(`
