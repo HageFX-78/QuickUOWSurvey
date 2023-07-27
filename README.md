@@ -11,6 +11,8 @@ page refresh everytime you click on the option which is annoying! Hence this too
 ## Installation
 1. Install a userscript manager like [Tampermonkey](https://www.tampermonkey.net/) (A chrome extensioon)
 2. Click on the file [surveyQuickSelect.user.js](https://github.com/HageFX-78/QuickUOWSurvey/blob/main/surveyQuickSelect.user.js) and click on Raw. It will redirect to tampermonkey page asking if you want to install it.
+3. Visit the survey page and it will be there.
+4. Enjoy!
 
 ~~## Installation (Alt but may be easier)~~
 ~~1. Install a userscript manager like [Tampermonkey](https://www.tampermonkey.net/) (A chrome extensioon)~~
