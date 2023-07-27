@@ -10,13 +10,16 @@ page refresh everytime you click on the option which is annoying! Hence this too
 
 ## Installation
 1. Install a userscript manager like [Tampermonkey](https://www.tampermonkey.net/) (A chrome extensioon)
-2. Click on the file [surveyQuickSelect.user.js](https://github.com/HageFX-78/QuickUOWSurvey/blob/main/surveyQuickSelect.user.js) and click on Raw. It will redirect to tampermonkey page asking if you want to install it.
+2. Click on [this](https://github.com/HageFX-78/QuickUOWSurvey/raw/main/surveyQuickSelect.user.js) and install.
+3. Visit the survey page and it will be there.
+4. Enjoy!
 
 ~~## Installation (Alt but may be easier)~~
 ~~1. Install a userscript manager like [Tampermonkey](https://www.tampermonkey.net/) (A chrome extensioon)~~
 ~~2. Navigate to [Greasy Fork](https://www.google.com) and just install it from there. (No sign up required)~~
 > Not shared there yet or won't
 
-### How it would look like with the script:
-![Screenshot of it would look like]()
-
+### How the bar looks like:
+![Screenshot of it would look like](toolBar.png)
+### Random range select feature:
+![Screenshot of it would look like](randomRange.png)
