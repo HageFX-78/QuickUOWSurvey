@@ -17,6 +17,7 @@ page refresh everytime you click on the option which is annoying! Hence this too
 ~~2. Navigate to [Greasy Fork](https://www.google.com) and just install it from there. (No sign up required)~~
 > Not shared there yet or won't
 
-### How it would look like with the script:
-![Screenshot of it would look like]()
-
+### How the bar looks like:
+![Screenshot of it would look like](toolBar.png)
+### Random range select feature:
+![Screenshot of it would look like](randomRange.png)
