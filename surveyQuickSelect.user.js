@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         UOWKDU Teaching Survey Quick Selector
 // @namespace    https://github.com/HageFX-78
-// @version      0.1.1
+// @version      0.1.2
 // @description  As the name implies, this scripts helps to quick select (basically skip) all radio boxes in UOWKDU teaching survey with option to randomize as well.
 // @author       HageFX78
 // @license      MIT
@@ -55,6 +55,7 @@ GM_addStyle(`
         margin-left: 5em;
     }
 ` );
+
 window.addEventListener('load', function () {
     'use strict';
 
@@ -201,5 +202,5 @@ window.addEventListener('load', function () {
     let radTags = document.querySelectorAll('input[type=radio]');
     let spanToAppend = document.getElementById('CPH_main_lblInstruction4');
 
-    addRatingButtons(spanToAppend);
+    addRatingButtons(spanToAppend); // init
 });
