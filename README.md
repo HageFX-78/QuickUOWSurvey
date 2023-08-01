@@ -8,16 +8,13 @@ page refresh everytime you click on the option which is annoying! Hence this too
 - Pick min max numbers between 1 to 6 to randomize between.
 - Could bypass answered/locked surveys... I'm not responsible for your actions!
 
-## Installation
+## Installation (Around 2 Min only)
 1. Install a userscript manager like [Tampermonkey](https://www.tampermonkey.net/) (A chrome extensioon)
 2. Click on [this](https://github.com/HageFX-78/QuickUOWSurvey/raw/main/surveyQuickSelect.user.js) and install.
 3. Visit the survey page and it will be there.
 4. Enjoy!
 
-~~## Installation (Alt but may be easier)~~
-~~1. Install a userscript manager like [Tampermonkey](https://www.tampermonkey.net/) (A chrome extensioon)~~
-~~2. Navigate to [Greasy Fork](https://www.google.com) and just install it from there. (No sign up required)~~
-> Not shared there yet or won't
+### Feel free to create an issue
 
 ### How the bar looks like:
 ![Screenshot of it would look like](toolBar.png)
